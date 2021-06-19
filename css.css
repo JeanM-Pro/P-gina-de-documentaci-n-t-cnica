@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#navbar{
+    position: fixed;
+    margin-left: 0;
+}
